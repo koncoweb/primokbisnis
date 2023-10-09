@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">The modern monolithic CMS</h3>
-<p align="center">Primo makes it a blast to build pages, update content, and edit code - one block at a time.</p>
+<p align="center">kbisnis Rebuilt menggunakan svelte dan primo</p>
 
 <p align="center">
     <a href="https://primocms.org/">Primocms.org</a> •
